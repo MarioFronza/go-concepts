@@ -1,6 +1,6 @@
-# NodeJS concepts
+# Golang concepts
 
-This example explains the basics of Golang server using mux 🦍
+This example explains the basics of Golang server using mux.
 
 ---
 
@@ -38,4 +38,4 @@ or
 
 ## Running the project
 
-    $ ./main
+    $ ./go-concepts
